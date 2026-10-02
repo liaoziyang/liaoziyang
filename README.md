@@ -82,25 +82,58 @@ I build web applications and the infrastructure underneath them, and enjoy makin
 
 <br/>
 
+<h3>Open source</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/1%2C000%2B-stars%20on%20public%20repos-24292f?style=flat-square" alt="1,000+ stars" />
+  <img src="https://img.shields.io/badge/280%2B-forks-24292f?style=flat-square" alt="280+ forks" />
+  <img src="https://img.shields.io/badge/6-repos%20with%20150%2B%20stars-24292f?style=flat-square" alt="6 repos with 150+ stars" />
+</p>
+
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/ContentAssist"><b>ContentAssist</b></a><br/>
       <sub>Code assist plugin for Eclipse</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/liaoziyang/ContentAssist?style=flat-square&label=stars&color=24292f" alt="Stars" />
+      <img src="https://img.shields.io/badge/Java-f6f8fa?style=flat-square" alt="Java" />
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/liaoziyang/OpenIE-Spider"><b>OpenIE-Spider</b></a><br/>
+      <sub>Information extraction from web corpora using Open IE</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/OpenIE-Spider?style=flat-square&label=stars&color=24292f" alt="Stars" />
+      <img src="https://img.shields.io/badge/Python-f6f8fa?style=flat-square" alt="Python" />
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/stackneveroverflow"><b>stackneveroverflow</b></a><br/>
       <sub>Q&amp;A platform built with Ruby on Rails</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/liaoziyang/stackneveroverflow?style=flat-square&label=stars&color=24292f" alt="Stars" />
+      <img src="https://img.shields.io/badge/Ruby-f6f8fa?style=flat-square" alt="Ruby" />
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/chrome_url2qrcode"><b>chrome_url2qrcode</b></a><br/>
       <sub>Chrome extension that turns the current URL into a QR code</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/liaoziyang/chrome_url2qrcode?style=flat-square&label=stars&color=24292f" alt="Stars" />
+      <img src="https://img.shields.io/badge/JavaScript-f6f8fa?style=flat-square" alt="JavaScript" />
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/liaoziyang/HolidayDateTime"><b>HolidayDateTime</b></a><br/>
+      <sub>PHP class for Japanese holidays and weekends</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/HolidayDateTime?style=flat-square&label=stars&color=24292f" alt="Stars" />
+      <img src="https://img.shields.io/badge/PHP-f6f8fa?style=flat-square" alt="PHP" />
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/liaoziyang/negapoji"><b>negapoji</b></a><br/>
+      <sub>Sentiment classification for Japanese text</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/negapoji?style=flat-square&label=stars&color=24292f" alt="Stars" />
+      <img src="https://img.shields.io/badge/Python-f6f8fa?style=flat-square" alt="Python" />
     </td>
   </tr>
 </table>
+
+<sub>Also contributed to <a href="https://github.com/skygragon/leetcode-cli">skygragon/leetcode-cli</a>.</sub>
 
 <br/>
 
