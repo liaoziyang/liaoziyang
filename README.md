@@ -4,136 +4,67 @@
 
 <p>Software engineer based in Osaka, Japan</p>
 
-<a href="https://liaoziyang.github.io"><img src="https://img.shields.io/badge/Blog-liaoziyang.github.io-24292f?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
+<p>
+  <a href="https://liaoziyang.github.io"><img src="https://img.shields.io/badge/Blog-liaoziyang.github.io-24292f?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
+  <img src="https://img.shields.io/badge/Stars-1%2C000%2B-24292f?style=flat-square&logo=github&logoColor=white" alt="1,000+ stars" />
+  <img src="https://img.shields.io/badge/Forks-280%2B-24292f?style=flat-square&logo=github&logoColor=white" alt="280+ forks" />
+</p>
 
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="right"><sub><b>Languages</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,ruby,go,java,python,php,cs,swift,kotlin,bash&theme=dark&perline=12" />
-        <img src="https://skillicons.dev/icons?i=ts,js,ruby,go,java,python,php,cs,swift,kotlin,bash&theme=light&perline=12" alt="Languages" height="32" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Frontend</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind&theme=dark&perline=12" />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind&theme=light&perline=12" alt="Frontend" height="32" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Backend</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,rails,laravel,spring,django,flask,graphql&theme=dark&perline=12" />
-        <img src="https://skillicons.dev/icons?i=nodejs,express,rails,laravel,spring,django,flask,graphql&theme=light&perline=12" alt="Backend" height="32" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Mobile</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio,flutter,unity&theme=dark&perline=12" />
-        <img src="https://skillicons.dev/icons?i=androidstudio,flutter,unity&theme=light&perline=12" alt="Mobile" height="32" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Data</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,firebase&theme=dark&perline=12" />
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,firebase&theme=light&perline=12" alt="Data" height="32" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Cloud & DevOps</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,linux,githubactions,jenkins,prometheus,grafana,vercel&theme=dark&perline=12" />
-        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,linux,githubactions,jenkins,prometheus,grafana,vercel&theme=light&perline=12" alt="Cloud & DevOps" height="32" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Tools</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vim,figma&theme=dark&perline=12" />
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vim,figma&theme=light&perline=12" alt="Tools" height="32" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p>I build web applications and the infrastructure underneath them,<br/>and enjoy making small tools that remove friction from everyday development work.</p>
 
 </div>
 
 <br/>
 
-I build web applications and the infrastructure underneath them, and enjoy making small tools that remove friction from everyday development work.
+<h3 align="center">Tech stack</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,ruby,go,java,python,php,cs,swift,kotlin,bash,html,css,react,nextjs,vue,sass,tailwind,nodejs,express,rails,laravel,spring,django,flask,graphql,androidstudio,flutter,unity,mysql,postgres,redis,mongodb,sqlite,firebase,aws,gcp,docker,kubernetes,terraform,nginx,linux,githubactions,jenkins,prometheus,grafana,vercel,git,github,vscode,idea,eclipse,vim,figma&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,ruby,go,java,python,php,cs,swift,kotlin,bash,html,css,react,nextjs,vue,sass,tailwind,nodejs,express,rails,laravel,spring,django,flask,graphql,androidstudio,flutter,unity,mysql,postgres,redis,mongodb,sqlite,firebase,aws,gcp,docker,kubernetes,terraform,nginx,linux,githubactions,jenkins,prometheus,grafana,vercel,git,github,vscode,idea,eclipse,vim,figma&theme=light&perline=14" alt="Tech stack" width="640" />
+  </picture>
+</p>
 
 <br/>
 
-<h3>Open source</h3>
+<h3 align="center">Open source</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/1%2C000%2B-stars%20on%20public%20repos-24292f?style=flat-square" alt="1,000+ stars" />
-  <img src="https://img.shields.io/badge/280%2B-forks-24292f?style=flat-square" alt="280+ forks" />
-  <img src="https://img.shields.io/badge/6-repos%20with%20150%2B%20stars-24292f?style=flat-square" alt="6 repos with 150+ stars" />
-</p>
-
-<table>
+<table align="center">
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/ContentAssist"><b>ContentAssist</b></a><br/>
       <sub>Code assist plugin for Eclipse</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/liaoziyang/ContentAssist?style=flat-square&label=stars&color=24292f" alt="Stars" />
-      <img src="https://img.shields.io/badge/Java-f6f8fa?style=flat-square" alt="Java" />
+      <img src="https://img.shields.io/github/stars/liaoziyang/ContentAssist?style=flat-square&label=%E2%98%85&color=24292f" alt="Stars" />&nbsp;<sub>Java</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/OpenIE-Spider"><b>OpenIE-Spider</b></a><br/>
-      <sub>Information extraction from web corpora using Open IE</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/liaoziyang/OpenIE-Spider?style=flat-square&label=stars&color=24292f" alt="Stars" />
-      <img src="https://img.shields.io/badge/Python-f6f8fa?style=flat-square" alt="Python" />
+      <sub>Information extraction from web corpora</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/OpenIE-Spider?style=flat-square&label=%E2%98%85&color=24292f" alt="Stars" />&nbsp;<sub>Python</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/stackneveroverflow"><b>stackneveroverflow</b></a><br/>
-      <sub>Q&amp;A platform built with Ruby on Rails</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/liaoziyang/stackneveroverflow?style=flat-square&label=stars&color=24292f" alt="Stars" />
-      <img src="https://img.shields.io/badge/Ruby-f6f8fa?style=flat-square" alt="Ruby" />
+      <sub>Q&amp;A platform built with Rails</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/stackneveroverflow?style=flat-square&label=%E2%98%85&color=24292f" alt="Stars" />&nbsp;<sub>Ruby</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/chrome_url2qrcode"><b>chrome_url2qrcode</b></a><br/>
-      <sub>Chrome extension that turns the current URL into a QR code</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/liaoziyang/chrome_url2qrcode?style=flat-square&label=stars&color=24292f" alt="Stars" />
-      <img src="https://img.shields.io/badge/JavaScript-f6f8fa?style=flat-square" alt="JavaScript" />
+      <sub>Current URL as a QR code in Chrome</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/chrome_url2qrcode?style=flat-square&label=%E2%98%85&color=24292f" alt="Stars" />&nbsp;<sub>JavaScript</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/HolidayDateTime"><b>HolidayDateTime</b></a><br/>
-      <sub>PHP class for Japanese holidays and weekends</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/liaoziyang/HolidayDateTime?style=flat-square&label=stars&color=24292f" alt="Stars" />
-      <img src="https://img.shields.io/badge/PHP-f6f8fa?style=flat-square" alt="PHP" />
+      <sub>Japanese holiday and weekend checks</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/HolidayDateTime?style=flat-square&label=%E2%98%85&color=24292f" alt="Stars" />&nbsp;<sub>PHP</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/liaoziyang/negapoji"><b>negapoji</b></a><br/>
-      <sub>Sentiment classification for Japanese text</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/liaoziyang/negapoji?style=flat-square&label=stars&color=24292f" alt="Stars" />
-      <img src="https://img.shields.io/badge/Python-f6f8fa?style=flat-square" alt="Python" />
+      <sub>Sentiment analysis for Japanese text</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/liaoziyang/negapoji?style=flat-square&label=%E2%98%85&color=24292f" alt="Stars" />&nbsp;<sub>Python</sub>
     </td>
   </tr>
 </table>
-
-<sub>Also contributed to <a href="https://github.com/skygragon/leetcode-cli">skygragon/leetcode-cli</a>.</sub>
 
 <br/>
 
