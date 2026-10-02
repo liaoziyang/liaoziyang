@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0284c7,100:0ea5e9&height=180&section=header&text=Ziyang%20Liao&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Indie%20App%20Developer%20%40%20StackWorks&descSize=16&descAlignY=60" width="100%" alt="Ziyang Liao" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0284c7,100:0ea5e9&height=180&section=header&text=Ziyang%20Liao&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%40%20StackWorks&descSize=16&descAlignY=60" width="100%" alt="Ziyang Liao" />
 
 <a href="https://stack-works.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=iOS+%2F+Android+apps+for+everyday+life;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+Kotlin+%E2%80%A2+TypeScript;Building+from+Osaka%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Software+Developer+%40+StackWorks;Swift+%E2%80%A2+Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Ruby;Building+from+Osaka%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </a>
 
 <p>
@@ -16,12 +16,11 @@
 
 ## 👋 About
 
-I run **[StackWorks](https://stack-works.dev)**, a small studio in Osaka shipping a growing catalog of iOS and Android apps — household budgets, exam prep, fitness logs, travel tools and more.
+I run **[StackWorks](https://stack-works.dev)**, a small software studio based in Osaka, Japan.
 
-大阪で **StackWorks合同会社** を運営し、暮らしに寄り添う iOS / Android アプリを個人開発しています。
+大阪で **StackWorks合同会社** を運営しています。
 
-- 📱 Currently shipping native apps with **SwiftUI** and **Jetpack Compose**
-- 🤖 Automating the boring parts (App Store Connect, screenshots, CI) with AI agents
+- 📱 Mobile development with **Swift** and **Kotlin**
 - ☁️ Background in web backends and infra — Rails, Go, AWS, Kubernetes
 
 ## 🛠 Tech Stack
