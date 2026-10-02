@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0284c7,100:0ea5e9&height=180&section=header&text=Ziyang%20Liao&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%40%20StackWorks&descSize=16&descAlignY=60" width="100%" alt="Ziyang Liao" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0284c7,100:0ea5e9&height=180&section=header&text=Ziyang%20Liao&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20from%20Osaka&descSize=16&descAlignY=60" width="100%" alt="Ziyang Liao" />
 
-<a href="https://stack-works.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Software+Developer+%40+StackWorks;Swift+%E2%80%A2+Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Ruby;Building+from+Osaka%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+<a href="https://github.com/liaoziyang">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Software+Developer;Swift+%E2%80%A2+Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Ruby;Building+from+Osaka%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://stack-works.dev"><img src="https://img.shields.io/badge/StackWorks-0284c7?style=for-the-badge&logo=safari&logoColor=white" alt="StackWorks" /></a>
   <a href="https://liaoziyang.github.io"><img src="https://img.shields.io/badge/Blog-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" /></a>
   <img src="https://komarev.com/ghpvc/?username=liaoziyang&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
 </p>
@@ -16,9 +15,9 @@
 
 ## 👋 About
 
-I run **[StackWorks](https://stack-works.dev)**, a small software studio based in Osaka, Japan.
+Software developer based in Osaka, Japan.
 
-大阪で **StackWorks合同会社** を運営しています。
+大阪在住のソフトウェアエンジニアです。
 
 - 📱 Mobile development with **Swift** and **Kotlin**
 - ☁️ Background in web backends and infra — Rails, Go, AWS, Kubernetes
