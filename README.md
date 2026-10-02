@@ -17,8 +17,6 @@
 
 Software developer based in Osaka, Japan.
 
-大阪在住のソフトウェアエンジニアです。
-
 - 📱 Mobile development with **Swift** and **Kotlin**
 - ☁️ Background in web backends and infra — Rails, Go, AWS, Kubernetes
 
