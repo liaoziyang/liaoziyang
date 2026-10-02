@@ -8,10 +8,71 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,ruby,rails,go,java,python,aws,kubernetes,docker&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ts,react,ruby,rails,go,java,python,aws,kubernetes,docker&theme=light" alt="Tech stack" />
-</picture>
+<table>
+  <tr>
+    <td align="right"><sub><b>Languages</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,ruby,go,java,python,php,cs,swift,kotlin,bash&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=ts,js,ruby,go,java,python,php,cs,swift,kotlin,bash&theme=light&perline=12" alt="Languages" height="32" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Frontend</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind&theme=light&perline=12" alt="Frontend" height="32" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Backend</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,rails,laravel,spring,django,flask,graphql&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,rails,laravel,spring,django,flask,graphql&theme=light&perline=12" alt="Backend" height="32" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Mobile</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio,flutter,unity&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,flutter,unity&theme=light&perline=12" alt="Mobile" height="32" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Data</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,firebase&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,firebase&theme=light&perline=12" alt="Data" height="32" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Cloud & DevOps</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,linux,githubactions,jenkins,prometheus,grafana,vercel&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,linux,githubactions,jenkins,prometheus,grafana,vercel&theme=light&perline=12" alt="Cloud & DevOps" height="32" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Tools</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vim,figma&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vim,figma&theme=light&perline=12" alt="Tools" height="32" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
